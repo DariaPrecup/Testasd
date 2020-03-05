@@ -1,0 +1,12 @@
+E:\Daria C#\Istorie\Istorie\bin\Debug\Istorie.exe.config
+E:\Daria C#\Istorie\Istorie\bin\Debug\Istorie.exe
+E:\Daria C#\Istorie\Istorie\bin\Debug\Istorie.pdb
+E:\Daria C#\Istorie\Istorie\obj\Debug\Istorie.csprojResolveAssemblyReference.cache
+E:\Daria C#\Istorie\Istorie\obj\Debug\Istorie.frmMain.resources
+E:\Daria C#\Istorie\Istorie\obj\Debug\Istorie.Properties.Resources.resources
+E:\Daria C#\Istorie\Istorie\obj\Debug\Istorie.csproj.GenerateResource.Cache
+E:\Daria C#\Istorie\Istorie\obj\Debug\Istorie.exe
+E:\Daria C#\Istorie\Istorie\obj\Debug\Istorie.pdb
+E:\Daria C#\Istorie\Istorie\obj\Debug\Istorie.Login.resources
+E:\Daria C#\Istorie\Istorie\obj\Debug\Istorie.Cont.resources
+E:\Daria C#\Istorie\Istorie\obj\Debug\Istorie.existent.resources
